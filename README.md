@@ -1,6 +1,6 @@
 # @programic/eslint-config-vue-typescript
 
-[![npm version](https://badge.fury.io/js/%40programic%2Feslint-config-vue-typescript.svg)](http://badge.fury.io/js/@programic/eslint-config-vue-typescript)
+[![npm version](https://badge.fury.io/js/@programic%2Feslint-config-vue-typescript.svg)](https://badge.fury.io/js/@programic%2Feslint-config-vue-typescript)
 
 This package provides Programic's JS + Vue 2 + TypeScript .eslintrc as an extensible shared config.
 
