@@ -35,24 +35,25 @@
     "node": ">= 6"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.25.0",
-    "@typescript-eslint/parser": "^5.25.0",
-    "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
-    "eslint-import-resolver-typescript": "^2.4.0",
-    "eslint-plugin-import": "^2.23.4",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "eslint": "^7.5.0 || ^8.2.0",
+    "eslint-import-resolver-typescript": "^2.4.1",
+    "eslint-plugin-import": "^2.26.0",
     "typescript": ">=3.8.0",
     "vue-eslint-parser": "^7.10.0"
   },
   "dependencies": {
-    "@programic/eslint-config-base": "^7.0.3",
-    "@programic/eslint-config-typescript": "^10.0.0",
-    "@programic/eslint-config-vue": "^6.0.2"
+    "@programic/eslint-config-base": "^8.0.0",
+    "@programic/eslint-config-typescript": "^11.0.0",
+    "@programic/eslint-config-vue": "^7.0.0"
   },
   "devDependencies": {
+    "@programic/eslint-plugin": "^1.0.1",
     "@types/eslint": "^7.28.0",
     "@types/jest": "^27.0.3",
-    "@typescript-eslint/eslint-plugin": "^5.25.0",
-    "@typescript-eslint/parser": "^5.25.0",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
     "eslint": "^7.31.0",
     "eslint-import-resolver-typescript": "^2.4.0",
     "eslint-plugin-import": "^2.23.4",
